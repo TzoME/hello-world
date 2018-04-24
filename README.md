@@ -1,2 +1,2 @@
 # hello-world
-first repository to under how GitHub works
+first repository to understand how GitHub works
